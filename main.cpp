@@ -54,4 +54,6 @@ void main()
 		delete data[i];
 	}
 
+	cout<<"second line"<<endl;
+
 }
